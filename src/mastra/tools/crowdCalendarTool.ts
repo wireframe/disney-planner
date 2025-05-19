@@ -7,7 +7,7 @@ export const crowdCalendarTool = createTool({
   description: 'Provides crowd level predictions for Disney parks on a given date.',
   inputSchema: z.object({
     park: z.string().describe('The name of the Disney park (e.g., Magic Kingdom, Disneyland, EPCOT, etc.)'),
-    date: z.date().describe('The date to check crowd levels for, in YYYY-MM-DD format'),
+    date: z.string().describe('The date to check crowd levels for, in YYYY-MM-DD format'),
   }),
   execute: async (input) => {
     const { park, date } = input.context;
