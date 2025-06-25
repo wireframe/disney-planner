@@ -59,4 +59,28 @@ npm run build
 
 ---
 
-Feel free to contribute or open issues for feature requests and bug reports! 
+## Future Feature Ideas
+
+- **Itinerary Planning Workflow:**
+  - Automatically generate daily park assignments based on crowd levels, user preferences, and party size.
+  - Suggest optimal Genie+ and Lightning Lane strategies.
+  - Recommend dining reservations and special experiences.
+  - Output a shareable, day-by-day itinerary.
+
+- **Weather Integration:**
+  - Provide real-time weather forecasts for each park and date.
+  - Suggest packing tips and alternate plans for inclement weather.
+
+- **Reservation & Ticket Reminders:**
+  - Notify users of important booking windows (dining, park reservations, special events).
+
+- **Budget Planning Tool:**
+  - Estimate trip costs based on user selections and provide money-saving tips.
+
+- **Live Wait Times & Alerts:**
+  - Integrate with APIs for live wait times and send alerts for low-crowd opportunities.
+
+- **Multi-park/Resort Support:**
+  - Expand recommendations to Disneyland, Paris, Tokyo, and other Disney resorts.
+
+Feel free to contribute or suggest more features! 
